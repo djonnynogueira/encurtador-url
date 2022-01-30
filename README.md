@@ -8,7 +8,13 @@ Projeto criado durante o bootcamp Eduzz Fullstack Developer para construção de
 - `npm run build`
 - `npm run dev`
 
+##### Tecnologias:
+<div style="display: inline_block">
+  <img align="center" alt="NodeJS" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+    <img align="center" alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+  <img align="center" alt="MongoDB" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
 
+</div><hr><br>
 
 #### Instrutora
 Aléxia J. Dorneles Pereira
